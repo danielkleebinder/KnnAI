@@ -1,3 +1,15 @@
+# Netbeans
+nbproject/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+data/
+build.xml
+manifest.mf
+
 # Compiled class file
 *.class
 
